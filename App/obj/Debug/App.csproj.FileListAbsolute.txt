@@ -1,0 +1,4 @@
+C:\Users\bernie\Documents\Software Engineer Code Test (1)\Software Engineer Code Test\ASOS Software Engineering Code Test\App\App\bin\Debug\App.dll
+C:\Users\bernie\Documents\Software Engineer Code Test (1)\Software Engineer Code Test\ASOS Software Engineering Code Test\App\App\bin\Debug\App.pdb
+C:\Users\bernie\Documents\Software Engineer Code Test (1)\Software Engineer Code Test\ASOS Software Engineering Code Test\App\App\obj\Debug\App.dll
+C:\Users\bernie\Documents\Software Engineer Code Test (1)\Software Engineer Code Test\ASOS Software Engineering Code Test\App\App\obj\Debug\App.pdb

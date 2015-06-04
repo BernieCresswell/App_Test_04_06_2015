@@ -1,0 +1,9 @@
+C:\Users\bernie\Documents\Software Engineer Code Test (1)\Software Engineer Code Test\ASOS Software Engineering Code Test\App\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\bernie\Documents\Software Engineer Code Test (1)\Software Engineer Code Test\ASOS Software Engineering Code Test\App\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\bernie\Documents\Software Engineer Code Test (1)\Software Engineer Code Test\ASOS Software Engineering Code Test\App\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\bernie\Documents\Software Engineer Code Test (1)\Software Engineer Code Test\ASOS Software Engineering Code Test\App\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\bernie\Documents\Software Engineer Code Test (1)\Software Engineer Code Test\ASOS Software Engineering Code Test\App\UnitTestProject1\obj\Debug\UnitTestProject_App.csprojResolveAssemblyReference.cache
+C:\Users\bernie\Documents\Software Engineer Code Test (1)\Software Engineer Code Test\ASOS Software Engineering Code Test\App\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\bernie\Documents\Software Engineer Code Test (1)\Software Engineer Code Test\ASOS Software Engineering Code Test\App\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\bernie\Documents\Software Engineer Code Test (1)\Software Engineer Code Test\ASOS Software Engineering Code Test\App\UnitTestProject1\bin\Debug\App.dll
+C:\Users\bernie\Documents\Software Engineer Code Test (1)\Software Engineer Code Test\ASOS Software Engineering Code Test\App\UnitTestProject1\bin\Debug\App.pdb
